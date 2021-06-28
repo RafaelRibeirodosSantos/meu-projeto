@@ -1,3 +1,3 @@
-# meu primeiro projeto
+# projeto CRUD python
  
-criado em uma aula
+projeto : manipulação de arquivo de texto em python
